@@ -1,0 +1,20 @@
+.c-one{
+background-color: hsl(350, 100%, 88%);
+font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+
+.c-two{
+    font-size: 24px;
+}
+
+#id-one{
+color: blue;
+font-size: 36px;
+}
+
+#id-two{
+background-color: lightgreen;
+font-size: 24px;
+font-weight: bold;
+}
